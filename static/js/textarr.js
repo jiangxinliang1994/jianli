@@ -60,54 +60,41 @@ let textArr = [
         name: 'h4',
         class: 'text-title',
         text: '专业技能'
-    }, {
+    },{
         name: 'ul',
         class: 'ul-list',
         children: [{
             name: 'li',
-            text:'熟练掌握',
-            children: [{
-                name: 'span',
-                text: 'H5、CSS3、ES6'
-            }]
+            text:'1.熟悉项目开发流程，拥有多个项目经验,独立解决各大主流浏览器的兼容性问题。'
         }, {
             name: 'li',
-            text:'能熟练运用不同主流UI框架ElementUI及多个移动端UI框架'
+            text:'2.熟悉HTML5+CSS3新特性，并应用到移动页面开发中，独立解决屏幕适配问题。'
         }, {
             name: 'li',
-            text:'掌握前端主流',
-            children: [{
-                name: 'span',
-                text: 'Vue框架'
-            }]
+            text:'3.运用Chrome DevTools、Firebug进行代码调试，能够有效的定位、分析和解决BUG及问题。'
         }, {
             name: 'li',
-            text:'熟练掌握',
-            children: [{
-                name: 'span',
-                text: 'H5混合APP开发'
-            }, {
-                name: 'span',
-                text: '，跨多端技术uni-app、apicloud'
-            }]
-        }, {
+            text:'4.精通HTML5，css3，jquery，echarts，ajax等前端技术。'
+        },{
             name: 'li',
-            text:'了解微信小程序开发'
-        }, {
+            text:'5.精通JQuery、Vue、Easyui、Elementui等前端主流框架和组件库、类库。'
+        },{
             name: 'li',
-            text:'熟悉后端语言Java、node.js'
-        }, {
+            text:'6.掌握移动端app开发，微信小程序开发，node.js，express框架开发。'
+        },{
             name: 'li',
-            text: '熟悉',
-            children: [{
-                name: 'span',
-                text: 'css预处理器'
-            }, {
-                name: 'span',
-                text: 'sass、stylus以及前端构建工具webpack和npm包管理库'
-            }]
+            text:'7.精通Flex布局，弹性盒子布局和流布局。'
+        },{
+            name: 'li',
+            text:'8.掌握spring boot，struts，spring cloud，spring,springMVC，mybatis后端框架技术。'
+        },{
+            name: 'li',
+            text:'9.掌握mysql,oracle数据库和数据存储结构。'
+        },{
+            name: 'li',
+            text:'10.掌握git版本和svn版本代码管理工具。'
         }]
-    }, 
+    },
     
     {
         name: 'h4',
@@ -143,13 +130,10 @@ let textArr = [
             text: '负责国家电网项目开发，如PC端，企业响应式网站，APP开发。'
         },{
             name: 'li',
-            text: '负责前端项目维护更新、优化和动态效果等。'
+            text: '负责前端项目维护更新、优化等。'
         },{
             name: 'li',
-            text: '负责使用Vue、JavaScript、JQuery搭建项目，实现网页动态效果以及页面间的跳转。'
-        },{
-            name: 'li',
-            text: '负责用vue、element、JQ、easyui做前端项目以及前后台数据交互。'
+            text: '负责使用Vue全家桶、Element UI、Echarts搭建项目，实现网页动态效果以及页面间的跳转和数据交互。'
         },{
             name: 'li',
             text: '配合产品和UI设计前端页面的规划布局。'
@@ -410,45 +394,7 @@ let textArr = [
                 text: '该项目介绍公司现状和发展，主要服务于新华社，数据业务主要是整合海量数据资源，深度挖掘数据价值，包括数据加工、核验、风控等服务；技术业务主要包括媒体、舆情、信用、财经、电商等领域的系统研发；新媒体业务主要包括移动增值业务，微信公众号和抖音短视频的平台建设与运营。以上业务体系互融互通，全面服务于各级政府或企事业单位。'
             }]
         }]
-    }, {
-        name: 'h4',
-        class: 'text-title',
-        text: '专业技能'
-    },{
-        name: 'ul',
-        class: 'ul-list',
-        children: [{
-            name: 'li',
-            text:'1.熟悉项目开发流程，拥有多个项目经验,独立解决各大主流浏览器的兼容性问题。'
-        }, {
-            name: 'li',
-            text:'2.熟悉HTML5+CSS3新特性，并应用到移动页面开发中，独立解决屏幕适配问题。'
-        }, {
-            name: 'li',
-            text:'3.运用Chrome DevTools、Firebug进行代码调试，能够有效的定位、分析和解决BUG及问题。'
-        }, {
-            name: 'li',
-            text:'4.精通HTML5，css3，jquery，echarts，ajax等前端技术。'
-        },{
-            name: 'li',
-            text:'5.精通JQuery、Vue、Easyui、Elementui等前端主流框架和组件库、类库。'
-        },{
-            name: 'li',
-            text:'6.掌握移动端app开发，微信小程序开发，node.js，express框架开发。'
-        },{
-            name: 'li',
-            text:'7.精通Flex布局，弹性盒子布局和流布局。'
-        },{
-            name: 'li',
-            text:'8.掌握spring boot，struts，spring cloud，spring,springMVC，mybatis后端框架技术。'
-        },{
-            name: 'li',
-            text:'9.掌握mysql,oracle数据库和数据存储结构。'
-        },{
-            name: 'li',
-            text:'10.掌握git版本和svn版本代码管理工具。'
-        }]
-    },
+    }, 
     {
         name: 'h4',
         class: 'text-title',
